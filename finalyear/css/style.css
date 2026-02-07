@@ -1,0 +1,33 @@
+body {
+  font-family: Arial;
+  background: #f7f0ff;
+  text-align: center;
+}
+
+header {
+  background: purple;
+  color: white;
+  padding: 30px;
+}
+
+.btn {
+  background: white;
+  padding: 10px;
+  text-decoration: none;
+  color: purple;
+  font-weight: bold;
+}
+
+input, button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.card {
+  background: white;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 10px;
+  display: inline-block;
+}
